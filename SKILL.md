@@ -1,7 +1,7 @@
 ---
 name: thesis-format-dxat
 description: |
-  按照滇西应用技术大学毕业论文模板格式排版Word文档。以例文为基底，通过OOXML层面操作实现精确排版， 包括分节符、页眉页脚、目录域代码、封面标题、页码格式等。适用于用户提交论文草稿并要求按模板格式化的场景。 触发词：毕业论文排版、论文格式化、滇西大模板、thesis formatting、学位论文排版。
+  通用智能体技能：按照滇西应用技术大学毕业论文模板格式排版Word文档。适用于所有支持 Markdown Skill 的 AI 智能体（QoderWork、Claude、GPT、Cursor、Copilot 等）。以例文为基底，通过OOXML层面操作实现精确排版，包括分节符、页眉页脚、目录域代码、封面标题、页码格式等。适用于用户提交论文草稿并要求按模板格式化的场景。触发词：毕业论文排版、论文格式化、滇西大模板、thesis formatting、学位论文排版。
 install_method: upload
 ---
 
